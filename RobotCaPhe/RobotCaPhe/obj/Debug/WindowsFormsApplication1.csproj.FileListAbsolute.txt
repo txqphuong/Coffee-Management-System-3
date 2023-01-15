@@ -1,0 +1,209 @@
+E:\Nam 3\TH DBMS\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Nam 3\TH DBMS\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Nam 3\TH DBMS\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Nam 3\TH DBMS\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Nam 3\TH DBMS\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Nam 3\TH DBMS\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Nam 3\TH DBMS\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Nam 3\TH DBMS\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Nam 3\TH DBMS\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KhachHang.resources
+E:\Nam 3\TH DBMS\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HoaDon.resources
+D:\TH-HQTCSDL\Project\RobotCaPhe\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+D:\TH-HQTCSDL\Project\RobotCaPhe\obj\Debug\WindowsFormsApplication1.HoaDon.resources
+D:\TH-HQTCSDL\Project\RobotCaPhe\obj\Debug\WindowsFormsApplication1.KhachHang.resources
+D:\TH-HQTCSDL\Project\RobotCaPhe\obj\Debug\WindowsFormsApplication1.NhanVien.resources
+D:\TH-HQTCSDL\Project\RobotCaPhe\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\TH-HQTCSDL\Project\RobotCaPhe\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\TH-HQTCSDL\Project\RobotCaPhe\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\TH-HQTCSDL\Project\RobotCaPhe\obj\Debug\WindowsFormsApplication1.exe
+D:\TH-HQTCSDL\Project\RobotCaPhe\obj\Debug\WindowsFormsApplication1.pdb
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong_Tuan03\RobotCaPhe\RobotCaPhe\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong_Tuan03\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.exe
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong_Tuan03\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.pdb
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong_Tuan03\RobotCaPhe\RobotCaPhe\bin\Debug\WindowsFormsApplication1.exe
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong_Tuan03\RobotCaPhe\RobotCaPhe\bin\Debug\WindowsFormsApplication1.pdb
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong_Tuan03\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong_Tuan03\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.HoaDon.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong_Tuan03\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.KhachHang.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong_Tuan03\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.NhanVien.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong_Tuan03\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong_Tuan03\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong_Tuan03\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThucDon.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong_Tuan03\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThemKhachHang.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong_Tuan03\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.ThemNhanVien.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong_Tuan03\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThemHoaDon.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong_Tuan03\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.DatMon.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong_Tuan03\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.TrangChu.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong_Tuan03\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThemMonVaoThucDon.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong_Tuan03\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.PhanQuyen.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong_Tuan03\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.DangNhap.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.DangNhap.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.DatMon.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.PhanQuyen.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThemHoaDon.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.HoaDon.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.KhachHang.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.NhanVien.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThemKhachHang.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThemMonVaoThucDon.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.ThemNhanVien.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThucDon.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.TrangChu.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.DangKy.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.DangKy.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.DangNhap.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.DatMon.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.PhanQuyen.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThemHoaDon.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.HoaDon.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.KhachHang.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.NhanVien.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThemKhachHang.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThemMonVaoThucDon.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.ThemNhanVien.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThucDon.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.TrangChu.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.QuenMatKhau.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.SaoLuuPhucHoi.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.DangKy.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.DangNhap.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.DatMon.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.PhanQuyen.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.SaoLuuPhucHoi.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThemHoaDon.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.HoaDon.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.KhachHang.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.NhanVien.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThemKhachHang.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThemMonVaoThucDon.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.ThemNhanVien.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThucDon.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.TrangChu.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.QuenMatKhau.resources
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\AForge.dll
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\AForge.Video.dll
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\AForge.xml
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\AForge.Video.xml
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\HP\Desktop\TH HQTCSDL\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\AForge.dll
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\AForge.Video.dll
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\AForge.xml
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\AForge.Video.xml
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.DangKy.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.DangNhap.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.DatMon.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.PhanQuyen.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.SaoLuuPhucHoi.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThemHoaDon.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.HoaDon.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.KhachHang.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.NhanVien.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThemKhachHang.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThemMonVaoThucDon.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.ThemNhanVien.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThucDon.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.TrangChu.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.QuenMatKhau.resources
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Xuan Quynh Phuong\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.Report.resources
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.exe
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.pdb
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\WindowsFormsApplication1.exe
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\WindowsFormsApplication1.pdb
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\AForge.dll
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\AForge.Video.DirectShow.dll
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\AForge.Video.dll
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\AForge.xml
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\AForge.Video.xml
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\bin\Debug\AForge.Video.DirectShow.xml
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.DangKy.resources
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.DangNhap.resources
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.DatMon.resources
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.PhanQuyen.resources
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.SaoLuuPhucHoi.resources
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThemHoaDon.resources
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.HoaDon.resources
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.KhachHang.resources
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.NhanVien.resources
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThemKhachHang.resources
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThemMonVaoThucDon.resources
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.ThemNhanVien.resources
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThucDon.resources
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.TrangChu.resources
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.QuenMatKhau.resources
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.Report.resources
+E:\Nam 3\TH DBMS\RobotCaPhe\RobotCaPhe\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.exe
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.pdb
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\bin\Debug\WindowsFormsApplication1.exe.manifest
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\bin\Debug\WindowsFormsApplication1.application
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\bin\Debug\WindowsFormsApplication1.exe
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\bin\Debug\WindowsFormsApplication1.pdb
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\bin\Debug\AForge.dll
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\bin\Debug\AForge.Video.DirectShow.dll
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\bin\Debug\AForge.Video.dll
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\bin\Debug\AForge.xml
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\bin\Debug\AForge.Video.xml
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\bin\Debug\AForge.Video.DirectShow.xml
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.DangKy.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.DangNhap.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.DatMon.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.PhanQuyen.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.SaoLuuPhucHoi.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThemHoaDon.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.HoaDon.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.KhachHang.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.NhanVien.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThemKhachHang.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThemMonVaoThucDon.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.ThemNhanVien.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.ThucDon.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.GUI.TrangChu.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.QuenMatKhau.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.Report.resources
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.exe.manifest
+E:\Nam 3\TH DBMS\Tan_Phuong_Dong\Tan_Phuong_Dong\Tan_Phuong_Dong\RobotCaPhe\RobotCaPhe\obj\Debug\WindowsFormsApplication1.application
